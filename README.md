@@ -5,6 +5,6 @@ For some reason, the Matlab interface does not seem to render a preview of the M
 ## Purpose
 I am not yet sure what I want to achieve with this project. However, I hope it will evolve into something useful as I try out some of the features.
 Ideas so far include:
-* Branching of projects
-* Merging of projects
-* Interfacing to external code
+[ ] Branching of projects
+[ ] Merging of projects
+[ ] Interfacing to external code
